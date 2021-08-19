@@ -7,7 +7,7 @@ public class Sink extends Fixture implements Interactable {
 		super(name, shortDesc, longDesc);
     }
     public void interact() {
-        System.out.println("You washed yout hands!");
+        System.out.println("You washed your hands!");
     }
 }
 
