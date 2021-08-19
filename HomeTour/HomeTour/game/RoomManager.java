@@ -34,7 +34,7 @@ public class RoomManager {
 				"Master Bedroom",
 				"A dimmly-lighted room with very minimal furniture used. "
 				+"Simple yet sophisticated.",
-				"The south wall of the master beddrom is a large sun facing window.\nA sliding glass door leads to glass panel balcony. Window coverings incude custom real wood blinds that reduce the sun's glare and provide privacy while preserving the view.)");
+				"The south wall of the master beddrom is a large sun facing window.\nA sliding glass door leads to glass panel balcony. Window coverings incude custom real wood blinds that reduce the sun's glare and provide privacy while preserving the view. (roll dice)");
 		this.rooms[2] = room3;
 		
 		Room room4 = new Room(
@@ -45,7 +45,7 @@ public class RoomManager {
 		Room room5 = new Room(
 				"Bathroom",
 				"A tidy bathroom",
-				"The sink has a marble finish. This bath room is very clean, and smells of lavender potpourri.\nThere is also an amazing wide ceiling LED volume control \ncomplete shower system with a thermostatic valve. (interact: sink)"
+				"The sink has a marble finish. This bath room is very clean, and smells of lavender potpourri.\nThere is also an amazing wide ceiling LED volume control \ncomplete shower system with a thermostatic valve. (interact sink)"
 				+ " ");
 		this.rooms[4] = room5;
 		Room room6 = new Room(
