@@ -40,7 +40,7 @@ public class RoomManager {
 		Room room4 = new Room(
 				"Hallway",
 				"A well lit hallway",
-				"The interior of this house is focused around a central hallway \nserving as the main avenue of foot traffic and the entrance area to the adjacent rooms.\n The hallway flows into a large, wide staircase that provides the main departure\nfrom the entertainment area of the house to the bed rooms. (interact light)");
+				"The interior of this house is focused around a central hallway \nserving as the main avenue of foot traffic and the entrance area to the adjacent rooms.\nThe hallway flows into a large, wide staircase that provides the main departure\nfrom the entertainment area of the house to the bed rooms. (interact light)");
 		this.rooms[3] = room4;
 		Room room5 = new Room(
 				"Bathroom",
