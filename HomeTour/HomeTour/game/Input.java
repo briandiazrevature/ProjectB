@@ -76,6 +76,7 @@ public class Input {
 			}
 		}else if (action == "QUIT") {
 			Main.endGame();
+			System.out.println("Game Over!");
 		}
 	}
 
