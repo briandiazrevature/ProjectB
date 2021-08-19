@@ -21,9 +21,7 @@ public class RoomManager {
 				+ "\n"
 				+ "\nTo hide the remote "
 				+ "\ntype: hide remote"
-				+ "\n"
-				+ "\nTo roll the dice"
-				+ "\ntype: roll dice\n");
+				+ "\n");
 		this.rooms[0] = room1;
 		
 		Room room2 = new Room(
